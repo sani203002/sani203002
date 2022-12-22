@@ -28,11 +28,12 @@ Heyy!! I am Sanika Chandode,I am currently pursuing my Bachelors in Computer Eng
 
 <br>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sani203002&show_icons=true&theme=dark)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sani203002&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <br>
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=sani203002.sani203002) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sani203002&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sani203002&theme=great-gatsby&layout=compact)](https://github.com/sani203002)
