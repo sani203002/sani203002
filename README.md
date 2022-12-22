@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=sani203002.sani203002) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sani203002&show_icons=true&theme=slateorange)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sani203002&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sani203002&theme=slateorange)
