@@ -14,5 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center"><b>Hi , I'm Sanika Chandode </b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+	
+## About me
+
+<br>
+
+- Currently learning Android Development.
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=sani203002&theme=radical)](https://git.io/streak-stats)
