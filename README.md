@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=sani203002&theme=highcontrast)](https://git.io/streak-stats)
 <br>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=sani203002.sani203002)
-<br>
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=sani203002.sani203002) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisani203002anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sani203002&show_icons=true&theme=slateorange)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sani203002&theme=slateorange)
