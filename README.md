@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-https://github-readme-stats.vercel.app/api?sani2030002=&theme=radical
+[![GitHub Streak](https://streak-stats.demolab.com/sani203002=DenverCoder1)](https://git.io/streak-stats)
