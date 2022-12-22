@@ -26,4 +26,10 @@ Here are some ideas to get you started:
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sani203002&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sani203002&theme=highcontrast)](https://git.io/streak-stats)
+<br>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=sani203002.sani203002)
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apisani203002anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
