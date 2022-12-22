@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 - Currently learning Android Development.
 
-<br><br>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=sani203002&theme=radical)](https://git.io/streak-stats)
