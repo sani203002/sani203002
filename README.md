@@ -24,7 +24,7 @@ Heyy!! I am Sanika Chandode,I am currently pursuing my Bachelors in Computer Eng
 <br>
 
 - Currently learning Android Development.
-- looking to collaborate with anyone on any project.
+- Looking to collaborate with anyone on any project.
 
 <br>
 
